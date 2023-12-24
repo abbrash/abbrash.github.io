@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Arash 'Ari'"
   avatar           : "ArashAbbasiLarki.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "M.Sc student in Mechatronics Engineering at K.N. Toosi University of Technology"
+  location         : "Tehran, Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=dfTcX0UAAAAJ&hl=en&oi=ao"
+  email            : "Arash.Abbasi20@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Arash_Abbasi_Larki"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/arashabbasilarki/"
+  orcid            : "https://orcid.org/0009-0006-5262-7472"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
