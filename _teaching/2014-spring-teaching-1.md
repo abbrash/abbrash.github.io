@@ -8,6 +8,5 @@ date: 2023
 location: "Tehran, Iran"
 ---
 
-* Data collecting using a motion capture device for the course project and assisting
-students with their projects,
+* Data collecting using a motion capture device for the course project and assisting students with their projects
 * Grading assignments
