@@ -11,21 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Mechanical Engineering, [Shahid Chamran University of Ahvaz](https://www.topuniversities.com/universities/shahid-chamran-university-ahvaz), 2020
-* M.Sc. Mechatronics Engineering, [K. N. Toosi University of Technology](https://www.topuniversities.com/universities/k-n-toosi-university-technology), 2024 (expected)
+* M.Sc. Mechatronics Engineering, [K. N. Toosi University of Technology](https://www.topuniversities.com/universities/k-n-toosi-university-technology)
+* B.Sc. Mechanical Engineering, [Shahid Chamran University of Ahvaz](https://www.topuniversities.com/universities/shahid-chamran-university-ahvaz)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
