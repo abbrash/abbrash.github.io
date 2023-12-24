@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arash 'Ari'"
+  name             : "Arash"
   avatar           : "ArashAbbasiLarki.jpg"
   bio              : "M.Sc student in Mechatronics Engineering at K.N. Toosi University of Technology"
   location         : "Tehran, Iran"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "abbrash"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
