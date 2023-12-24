@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching
 venue: "K.N. Toosi University of Technology, Electrical Engineering"
-date: 2023
+date: 2023.01.01
 location: "Tehran, Iran"
 ---
 
