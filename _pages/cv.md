@@ -42,7 +42,7 @@ Talks
   
 Research Experience
 ======
-Research Assistant, Biomechatronics Laboratory, K.N. Toosi University of Technology
+Research Assistant, [Biomechatronics Laboratory](https://www.linkedin.com/company/biomechatronics-laboratory/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BvwhNU5WT3qniuBvJ2mOkA%3D%3D), K.N. Toosi University of Technology, 2022 - Present
 
 * Conducting cognitive assessment tests for research purposes
 * Data collection
@@ -52,7 +52,7 @@ Research Assistant, Biomechatronics Laboratory, K.N. Toosi University of Technol
   * Undertaking the preparation of datasets related to Chronic Obstructive Pulmonary Disease (COPD) and executing a diverse array of Machine Learning (ML) and Deep Learning (DL) algorithms for data analysis and project advancement
   * Recording and analyzing individuals' body movements using motion capture devices for research and project-related purposes
 
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
