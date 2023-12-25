@@ -42,7 +42,7 @@ Talks
   
 Research Experience
 ======
-Research Assistant, [Biomechatronics Laboratory](https://www.linkedin.com/company/biomechatronics-laboratory/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BvwhNU5WT3qniuBvJ2mOkA%3D%3D), K.N. Toosi University of Technology, 2022 - Present
+Research Assistant, [Biomechatronics Laboratory](https://www.linkedin.com/company/biomechatronics-laboratory/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BvwhNU5WT3qniuBvJ2mOkA%3D%3D), K.N. Toosi University of Technology, 2020 - Present
 
 * Conducting cognitive assessment tests for research purposes
 * Data collection
