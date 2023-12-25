@@ -23,6 +23,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Awards and Honors
+======
+* Ranked within the top 2% among more than 220,000 participants in the Iranian University Entrance Exam for a B.Sc. degree.
+* Received full Scholarship from Shahid Chamran University of Ahvaz for a B.Sc. degree in Mechanical Engineering
+
 Publications
 ======
   <ul>{% for post in site.publications %}
