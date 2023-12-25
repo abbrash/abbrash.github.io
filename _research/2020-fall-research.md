@@ -1,8 +1,8 @@
 ---
 title: "Biomechatronics Laboratory"
-collection: teaching
+collection: research
 type: ""
-permalink: /teaching/2020-fall-research
+permalink: /research/2020-fall-research
 venue: "[Biomechatronics Laboratory](https://www.linkedin.com/company/biomechatronics-laboratory/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B%2BvwhNU5WT3qniuBvJ2mOkA%3D%3D), K.N. Toosi University of Technology"
 date: 2020.09.20
 location: "Tehran, Iran"
