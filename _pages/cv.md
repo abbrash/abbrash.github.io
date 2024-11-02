@@ -42,8 +42,8 @@ Technical Skills
 
 Research Experience
 ======
-* September 2020 – Present: Graduate Research Assistant
-  * K. N. Toosi University of Technology
+* K. N. Toosi University of Technology September 2020 – Present
+  * Graduate Research Assistant
     * Conducted Research, analyzed and interpreted the results
     * Assisted in the supervision of undergraduate students
 
