@@ -1,15 +1,14 @@
 ---
-title: "Towards Cognitive Load Assessment Using Electrooculography Measures"
+title: "Gait kinematics in healthy participants: a motion capture dataset under weight load and knee brace conditions"
 collection: publications
-permalink: /publication/2023-12-18-paper-title
-excerpt: 'Cognitive load assessment is crucial for understanding human performance in various domains. This study investigates the impact of different task conditions and time constraints on cognitive load using multiple measures, including subjective evaluations, performance metrics, and physiological eye-tracking data. Fifteen participants completed a series of primary and secondary tasks with different time limits. The NASA-TLX questionnaire, reaction time, inverse efficiency score, and eye-related features (blink, saccade, and fixation frequency) were utilized to assess cognitive load. The study results show significant differences in the level of cognitive load required for different tasks and when under time constraints. The study also found that there was a positive correlation (r = 0.331, p = 0.014) between how often participants blinked their eyes and the level of cognitive load required but a negative correlation (r = -0.290, p = 0.032) between how often participants made quick eye movements (saccades) and the level of cognitive load required. Additionally, the analysis revealed a significant negative correlation (r = -0.347, p = 0.009) and (r = -0.370, p = 0.005) between fixation and saccade frequencies under time constraints.'
-date: 2023-12-18
-venue: 'arXiv'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-12-18-Gait-kinematics-in-healthy-participants-a-motion-capture-dataset-under-weight-load-and-knee-brace-conditions
+excerpt: 'Cognitive load'
+date: 2024
+venue: 'Computers in Biology and Medicine'
+paperurl: ''
+citation: 'Hanieh Moradi, Yas Vaseghi, Arash Abbasi Larki, Akram Shojaei, and Mehdi Delrobaei. ”Gait kinematics in healthy participants: a motion capture dataset under weight load and knee brace conditions”, <i>Computers in Biology and Medicine</i> - (Under review)'
 ---
-Cognitive load assessment is crucial for understanding human performance in various domains. This study investigates the impact of different task conditions and time constraints on cognitive load using multiple measures, including subjective evaluations, performance metrics, and physiological eye-tracking data. Fifteen participants completed a series of primary and secondary tasks with different time limits. The NASA-TLX questionnaire, reaction time, inverse efficiency score, and eye-related features (blink, saccade, and fixation frequency) were utilized to assess cognitive load. The study results show significant differences in the level of cognitive load required for different tasks and when under time constraints. The study also found that there was a positive correlation (r = 0.331, p = 0.014) between how often participants blinked their eyes and the level of cognitive load required but a negative correlation (r = -0.290, p = 0.032) between how often participants made quick eye movements (saccades) and the level of cognitive load required. Additionally, the analysis revealed a significant negative correlation (r = -0.347, p = 0.009) and (r = -0.370, p = 0.005) between fixation and saccade frequencies under time constraints.
+Cognitive load assessment 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Hanieh Moradi, Yas Vaseghi, Arash Abbasi Larki, Akram Shojaei, and Mehdi Delrobaei. ”Gait kinematics in healthy participants: a motion capture dataset under weight load and knee brace conditions”, <i>Computers in Biology and Medicine</i> - (Under review)
