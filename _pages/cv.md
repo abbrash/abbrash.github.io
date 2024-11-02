@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/Arash_Abbasi_Larki_CV.pdf).
+<meta http-equiv="refresh" content="0; url=/files/Arash_Abbasi_Larki_CV.pdf">
 
-<embed src="/files/Arash_Abbasi_Larki_CV.pdf" type="application/pdf" width="100%" height="800px" />
+<p>If the download doesn't start automatically, <a href="/files/Arash_Abbasi_Larki_CV.pdf" download>click here</a>.</p>
