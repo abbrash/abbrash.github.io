@@ -6,10 +6,11 @@ excerpt: 'This dataset contains motion capture data collected from 11 healthy su
 date: 2024-06-24
 venue: 'Figshare'
 paperurl: 'https://figshare.com/articles/dataset/IMU-Based_Motion_Capture_Data_for_Various_Walking_Tasks/26090200'
-citation: 'Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. ”IMU-Based Motion Capture Data for Various Walking Tasks”  <i>figshare, 24-Jun-2024</i>.
+citation: 'Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. "IMU-Based Motion Capture Data for Various Walking Tasks" figshare, 24-Jun-2024.'
 ---
-Advancements in neurosurgical 
+
+This dataset contains motion capture data collected from 11 healthy subjects performing various walking tasks using IMU-based sensors. Each subject performed 8 different tasks.
 
 [Download paper here](https://figshare.com/articles/dataset/IMU-Based_Motion_Capture_Data_for_Various_Walking_Tasks/26090200)
 
-'Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. ”IMU-Based Motion Capture Data for Various Walking Tasks”  <i>figshare, 24-Jun-2024</i>.
+Recommended citation: Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. "IMU-Based Motion Capture Data for Various Walking Tasks" <i>figshare, 24-Jun-2024</i>.
