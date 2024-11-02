@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mechatronics Engineering graduate from [K.N. Toosi University of Technology](https://www.topuniversities.com/universities/k-n-toosi-university-technology), with a focus on cognitive assessment and human-computer interaction. My research explores the intersection of neuroscience and technology, particularly in cognitive load classification using electrooculography (EOG) and machine learning approaches.
+I am a Mechatronics Engineering graduate from [K.N. Toosi University of Technology](https://www.topuniversities.com/universities/k-n-toosi-university-technology), with a focus on cognitive assessment and human-computer interaction. My research explores the intersection of cognitive science and technology, particularly in cognitive load classification using electrooculography (EOG) and machine learning approaches.
+
 As a researcher and engineer, I blend expertise in data science, machine learning, and brain-machine interfaces to develop innovative solutions for human-centered problems. My work spans across several domains, from deep learning applications in medical imaging to IoT-based monitoring systems and robotic control.
 I'm passionate about leveraging technology to improve human life, whether through developing better brain-machine interfaces, creating intelligent healthcare solutions, or advancing robotic systems. When I'm not working on research, you can find me gaming, staying active, or contributing to animal welfare causes.
 
