@@ -12,4 +12,4 @@ Advancements in neurosurgical robotics have improved medical procedures, particu
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10412364)
 
-Recommended citation: Mobina Zibandepour, Akram Shojaei, Arash Abbasi Larki, and Mehdi Delrobaei. ”Preliminary Guidelines for Electrode Positioning in Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields” 2023 <i>11th RSI International Conference on Robotics and Mechatronics (ICRoM)</i>, Tehran, Iran, Islamic Republic of, 2023, pp. 739-744.
+Mobina Zibandepour, Akram Shojaei, Arash Abbasi Larki, and Mehdi Delrobaei. ”Preliminary Guidelines for Electrode Positioning in Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields” 2023 <i>11th RSI International Conference on Robotics and Mechatronics (ICRoM)</i>, Tehran, Iran, Islamic Republic of, 2023, pp. 739-744.
