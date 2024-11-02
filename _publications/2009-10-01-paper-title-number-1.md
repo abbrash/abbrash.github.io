@@ -13,4 +13,4 @@ This dataset contains motion capture data collected from 11 healthy subjects per
 
 [Download paper here](https://figshare.com/articles/dataset/IMU-Based_Motion_Capture_Data_for_Various_Walking_Tasks/26090200)
 
-Recommended citation: Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. "IMU-Based Motion Capture Data for Various Walking Tasks" <i>figshare, 24-Jun-2024</i>.
+Akram Shojaei, Arash Abbasi Larki, Mehdi Delrobaei, Hanieh Moradi, and Yas Vaseghi. "IMU-Based Motion Capture Data for Various Walking Tasks" <i>figshare, 24-Jun-2024</i>.
