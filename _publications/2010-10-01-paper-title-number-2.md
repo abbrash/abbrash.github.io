@@ -12,4 +12,4 @@ Cognitive load assessment is crucial for understanding human performance in vari
 
 [Download paper here](https://arxiv.org/abs/2312.11418)
 
-Recommended citation: Arash Abbasi Larki, Akram Shojaei, and Mehdi Delrobaei. ”Towards Cognitive Load Assessment Using Electrooculography Measures”, (2023). <i>arXiv preprint arXiv:2312.11418.</i>
+Arash Abbasi Larki, Akram Shojaei, and Mehdi Delrobaei. ”Towards Cognitive Load Assessment Using Electrooculography Measures”, (2023). <i>arXiv preprint arXiv:2312.11418.</i>
