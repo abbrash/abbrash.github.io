@@ -14,7 +14,7 @@ Education
 * M.Sc. in Mechatronics Engineering, [K. N. Toosi University of Technology](https://www.topuniversities.com/universities/k-n-toosi-university-technology), 2024
   * CGPA: 3.7/4.0
   * Thesis: Cognitive Load Classification Based on Electrooculography (EOG) and using Machine Learning
-  * Supervisor: Dr. Mehdi Delrobaei
+  * Supervisor: Dr. [Mehdi Delrobaei](https://scholar.google.com/citations?hl=en&user=KhR6u9oAAAAJ)
 * B.Sc. in Mechanical Engineering, [Shahid Chamran University of Ahvaz](https://www.topuniversities.com/universities/shahid-chamran-university-ahvaz), 2020
   * Thesis: Development and Implementation of a Fuzzy Logic Controller for the Navigation of an Obstacle-avoiding Mobile Robot
   * Supervisor: Dr. Afshin Ghanbarzadeh
